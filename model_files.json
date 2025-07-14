@@ -1,0 +1,45 @@
+{
+  "model_info": {
+    "architecture": "Qwen2ForCausalLM",
+    "model_type": "qwen2",
+    "vocab_size": 151665,
+    "hidden_size": 5120,
+    "num_layers": 48,
+    "num_attention_heads": 40
+  },
+  "model_files": [
+    {
+      "name": "model-00001-of-00006.safetensors",
+      "size": 4982125520,
+      "size_formatted": "4GB"
+    },
+    {
+      "name": "model-00002-of-00006.safetensors",
+      "size": 4954847344,
+      "size_formatted": "4GB"
+    },
+    {
+      "name": "model-00003-of-00006.safetensors",
+      "size": 4954847392,
+      "size_formatted": "4GB"
+    },
+    {
+      "name": "model-00004-of-00006.safetensors",
+      "size": 4954847392,
+      "size_formatted": "4GB"
+    },
+    {
+      "name": "model-00005-of-00006.safetensors",
+      "size": 4954847392,
+      "size_formatted": "4GB"
+    },
+    {
+      "name": "model-00006-of-00006.safetensors",
+      "size": 4730447400,
+      "size_formatted": "4GB"
+    }
+  ],
+  "total_count": 6,
+  "source_url": "https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B",
+  "generated_at": "2025-07-14T15:12:19Z"
+}
